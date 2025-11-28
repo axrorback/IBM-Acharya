@@ -5,4 +5,6 @@ Kodlar Jupyter NoteBookda yozilgan asosan
 
 Kodlar kerak bolsa bemalol olib ishlatishingiz mumkin
 
-
+```cmd
+pip install jupyter
+```

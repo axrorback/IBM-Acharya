@@ -1,0 +1,7 @@
+,order_id,customer,product,quantity,price,city
+0,101,Alice,Laptop,1.0,55000.0,Delhi
+1,102,Bob,Mobile,2.0,20000.0,
+2,103,,Tablet,,15000.0,Mumbai
+3,104,David,Laptop,1.0,,Delhi
+4,105,Esha,,3.0,30000.0,Chennai
+5,106,Farhan,Mobile,,18000.0,Mumbai

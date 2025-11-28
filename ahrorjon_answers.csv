@@ -1,0 +1,7 @@
+order_id,customer,product,quantity,price,city,total_amount,order_type
+101,ALICE,Laptop,1.0,55000.0,Delhi,55000.0,High Value
+102,BOB,Mobile,2.0,20000.0,Delhi,40000.0,Regular
+103,,Tablet,1.75,15000.0,Mumbai,26250.0,Regular
+104,DAVID,Laptop,1.0,20000.0,Delhi,,Regular
+105,ESHA,,3.0,30000.0,Chennai,90000.0,Regular
+106,FARHAN,Mobile,1.75,18000.0,Mumbai,31500.0,Regular
