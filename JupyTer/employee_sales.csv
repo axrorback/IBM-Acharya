@@ -1,0 +1,11 @@
+emp_id,name,department,experience,sales,salary,city
+101,Arun,IT,2,50000,40000,Bengaluru
+102,Priya,HR,3,45000,38000,Chennai
+103,John,IT,,60000,45000,
+104,Amit,Finance,5,,55000,Mumbai
+105,Neha,HR,2,42000,,Delhi
+106,Rahul,IT,4,70000,60000,Bengaluru
+107,,Finance,3,48000,42000,Delhi
+108,Sara,HR,,52000,39000,
+109,Kiran,IT,1,30000,25000,Chennai
+110,Meena,Finance,6,80000,65000,Mumbai
