@@ -1,0 +1,11 @@
+,emp_id,name,performance,department,experience,sales,salary,city
+0,101,Arun,False,IT,2.0,50000.0,40000.0,Bengaluru
+1,102,Priya,False,HR,3.0,45000.0,38000.0,Chennai
+2,103,John,False,IT,,60000.0,45000.0,
+3,104,Amit,True,Finance,5.0,,55000.0,Mumbai
+4,105,Neha,False,HR,2.0,42000.0,,Delhi
+5,106,Rahul,True,IT,4.0,70000.0,60000.0,Bengaluru
+6,107,,False,Finance,3.0,48000.0,42000.0,Delhi
+7,108,Sara,False,HR,,52000.0,39000.0,
+8,109,Kiran,False,IT,1.0,30000.0,25000.0,Chennai
+9,110,Meena,True,Finance,6.0,80000.0,65000.0,Mumbai
